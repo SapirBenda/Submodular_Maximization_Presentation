@@ -10,5 +10,5 @@ We presented several approximation algorithms for the problem, and mainly focuse
 ✔Sample-and-Prune Technique
 ✔Threshold MPC Algorithm
 
-Link to presentation: https://github.com/SapirBenda/VM-Live-Migration-Optimization 
+Link to presentation:https://github.com/SapirBenda/Submodular_Maximization_Presentation 
 Based on chapter 6 in http://people.csail.mit.edu/ghaffari/MPA19/Notes/MPA.pdf
